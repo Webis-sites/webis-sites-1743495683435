@@ -1,0 +1,9 @@
+{
+  "name": "מספרה-ביתא-1743495683445",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "framer-motion": "^10.12.16"
+  },
+  "devDependencies": {}
+}
