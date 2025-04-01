@@ -1,0 +1,32 @@
+{
+  "projectDir": "מספרה-ביתא-1743495683445",
+  "createdAt": "2025-04-01T08:21:25.233Z",
+  "formData": {
+    "businessName": "מספרה ביתא",
+    "businessType": "מספרה",
+    "industry": "טכנולוגיה",
+    "businessSize": "large",
+    "description": "אנחנו מספרה מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#588C7E",
+    "secondaryColor": "#96CEB4",
+    "typographyStyle": "modern",
+    "animationPreference": "extensive",
+    "headline": "מספרה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "מספרה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מספרה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "glassmorphism"
+    ],
+    "features": []
+  }
+}
